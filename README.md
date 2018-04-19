@@ -1,6 +1,6 @@
 # Astrostats-2017-ESAC
 
-''The R notebooks provided here are superceded by those the in my [2018 parallax tutorial](https://github.com/ehalley/parallax-tutorial-2018)
+''The R notebooks provided here are superceded by those the in my [2018 parallax tutorial](https://github.com/ehalley/parallax-tutorial-2018)''
 
 Coryn Bailer-Jones, MPIA Heidelberg (https://mpia.de/homes/calj)
 
